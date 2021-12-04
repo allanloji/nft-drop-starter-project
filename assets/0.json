@@ -1,0 +1,19 @@
+{
+    "name": "Encounter",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "LTaHd2mFh5JkgRXK7cvowamkS2vyqBxuBokgdrvxbHL",
+          "share": 100
+        }
+      ]
+    }
+  }
